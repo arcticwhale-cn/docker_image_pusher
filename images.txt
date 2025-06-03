@@ -1,1 +1,2 @@
 infiniflow/ragflow:v0.17.2-slim
+twang2218/gitlab-ce-zh:11.1.4
