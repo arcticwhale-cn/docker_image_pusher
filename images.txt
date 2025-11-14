@@ -1,5 +1,1 @@
---platform=linux/arm64 langfuse/langfuse:3.129.0
---platform=linux/arm64 minio/minio:RELEASE.2024-08-29T01-40-52Z
---platform=linux/arm64 clickhouse/clickhouse-server:25.8
---platform=linux/arm64 redis:7.2.4
---platform=linux/arm64 postgres:17
+redis:5.0.7
