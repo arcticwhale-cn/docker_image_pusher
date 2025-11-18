@@ -1,2 +1,1 @@
---platform=linux/arm64 elasticsearch:8.11.3
-elasticsearch:8.17.0
+--platform=linux/arm64 elasticsearch:8.17.0
