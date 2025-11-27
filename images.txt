@@ -1,2 +1,1 @@
---platform=linux/arm64 jupyter/scipy-notebook:python-3.11.6
-jupyter/scipy-notebook:python-3.11.6
+sameersbn/bind:9.16.1-20200524
