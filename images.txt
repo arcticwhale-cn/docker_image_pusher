@@ -1,3 +1,5 @@
 oceanbase/seekdb:1.0.0.0-100000262025111218
 --platform=linux/arm64 oceanbase/seekdb:1.0.0.0-100000262025111218
+kuaifan/wookteam:8.0
+--platform=linux/arm64 kuaifan/wookteam:8.0
 
