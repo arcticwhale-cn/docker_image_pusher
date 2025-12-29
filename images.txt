@@ -1,2 +1,2 @@
---platform=linux/arm64 clickhouse/clickhouse-server:25.8
+--platform=linux/arm64 clickhouse/clickhouse-server:22.3
 
