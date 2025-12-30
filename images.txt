@@ -1,2 +1,2 @@
---platform=linux/arm64 clickhouse/clickhouse-server:23.8
+minio/minio:RELEASE.2024-08-29T01-40-52Z
 
