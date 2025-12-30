@@ -1,3 +1,2 @@
-langfuse/langfuse-worker:3.129.0
-langfuse/langfuse:3.129.0
+--platform=linux/arm64 clickhouse/clickhouse-server:22.8.21.38
 
