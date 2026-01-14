@@ -1,2 +1,2 @@
---platform=linux/arm64 opengauss/opengauss:7.0.0-RC2.B015
+--platform=linux/arm64 enmotech/opengauss:6.0.0
 
