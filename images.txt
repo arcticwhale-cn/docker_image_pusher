@@ -1,2 +1,2 @@
---platform=linux/arm64 enmotech/opengauss:6.0.0
+--platform=linux/arm64 nacos/nacos-server:v3.1.1
 
