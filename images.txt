@@ -1,3 +1,1 @@
-openzipkin/zipkin:3
---platform=linux/arm64 openzipkin/zipkin:3
-zmister/mrdoc:v9.3
+multiarch/qemu-user-static:xtensaeb-7.2.0-1
