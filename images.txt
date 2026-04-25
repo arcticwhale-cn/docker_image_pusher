@@ -1,1 +1,6 @@
-multiarch/qemu-user-static:xtensaeb-7.2.0-1
+--platform=linux/arm64 langgenius/dify-api:1.13.3
+--platform=linux/arm64 langgenius/dify-web:1.13.3
+--platform=linux/arm64 langgenius/dify-sandbox:0.2.14
+--platform=linux/arm64 langgenius/dify-plugin-daemon:0.5.3-local
+--platform=linux/arm64 postgres:15-alpine
+--platform=linux/arm64 redis:6-alpine
